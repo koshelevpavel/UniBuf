@@ -1,0 +1,9 @@
+{
+  "name": "unibuf",
+  "displayName":  "UniBuf",
+  "version": "0.0.1",
+  "unity": "2018.3",
+  "description": "UniBuf - Unity & protobuf-net",
+  "keywords": [ "UniBuf", "protobuf-net", "protobuf"],
+  "category": "UniBuf"
+}
